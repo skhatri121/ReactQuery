@@ -10,7 +10,7 @@ const Navbar = () => {
         fontSize="24px"
         fontWeight="bold"
       >
-        <Link to="/products">Products</Link>
+        {/* <Link to="/products/:id">Products</Link> */}
         <Link to="/">Product List</Link>
       </Box>
     </>
